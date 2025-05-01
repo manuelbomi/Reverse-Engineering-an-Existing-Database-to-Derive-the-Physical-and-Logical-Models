@@ -28,7 +28,7 @@ In this discourse, a data model that is existing in a MS SQL Server database is 
 ![Image](https://github.com/user-attachments/assets/cf0a69fb-0331-40dc-b55a-0a4d01c23381)
 
 ---
-#### Select all tables, views, attributes, lists etc that you wish to see in your reverse engineering logical and physical models
+#### Select all tables, views, attributes, lists etc that you wish to see in your reverse-engineered logical and physical models
 ![Image](https://github.com/user-attachments/assets/d2543711-28ec-42a3-ab90-b50c00001ff0)
 
 ---
