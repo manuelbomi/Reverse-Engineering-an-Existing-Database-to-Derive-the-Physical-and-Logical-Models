@@ -14,16 +14,17 @@ In this discourse, a data model that is existing in a MS SQL Server database is 
 ![Image](https://github.com/user-attachments/assets/cce74d69-f98d-4dda-b3bd-fc78975e2e6a)
 
 ---
-#### Click login. Provide login info and click next. Navigate to your database list and select database of interest.
+#### Click login. Provide login info and click next. Navigate to your database list and select database of interest. (In this discourse, the database of interest is teh MS SQL Server 2022). 
 
 ![Image](https://github.com/user-attachments/assets/8b803bfb-e0f9-4502-bbf2-54506ecfd086)
 
 ---
-####  Add it to selected databases and select all object of interest in the database to include
+####  Add it to selected databases and select all object of interest in the database to include. Ensure that your selected objects contains all database objects that you desire to select 
+
 ![Image](https://github.com/user-attachments/assets/003983ed-42a5-4a8c-8c2e-d746db4b7e71)
 ---
 
-#### Ensure that your selected objects contains all database objects that you desire to select 
+#### From the list of available databases, select the database that you wish to reverse engineer. 
 ![Image](https://github.com/user-attachments/assets/cf0a69fb-0331-40dc-b55a-0a4d01c23381)
 
 ---
