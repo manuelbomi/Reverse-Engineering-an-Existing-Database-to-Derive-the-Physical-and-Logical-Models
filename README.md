@@ -10,7 +10,7 @@ In this discourse, a data model that is existing in a MS SQL Server database is 
 > A very short video that explains how to configure the MS SQL Server Authentication method is available here: https://www.youtube.com/watch?v=-UY0fHckkGc
 > 
 ---
-#### To reverse engineer an existing MS SQL Server database, open the ER/Studio, go to 'File',  'New' and  select 'Reverse engineer a database'
+#### To reverse engineer an existing MS SQL Server database, open the ER/Studio software, go to 'File',  'New' and  select 'Reverse engineer an existing database'
 ![Image](https://github.com/user-attachments/assets/cce74d69-f98d-4dda-b3bd-fc78975e2e6a)
 
 ---
