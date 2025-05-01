@@ -14,32 +14,32 @@ In this discourse, a data model that is existing in a MS SQL Server database is 
 ![Image](https://github.com/user-attachments/assets/cce74d69-f98d-4dda-b3bd-fc78975e2e6a)
 
 ---
-#### Click login. Provide login info and click next
+#### Click login. Provide login info and click next. Navigate to your database list and select database of interest.
 
 ![Image](https://github.com/user-attachments/assets/8b803bfb-e0f9-4502-bbf2-54506ecfd086)
 
 ---
-#### Navigate to your database list and select database of interest
+####  Add it to selected databases and select all object of interest in the database to include
 ![Image](https://github.com/user-attachments/assets/003983ed-42a5-4a8c-8c2e-d746db4b7e71)
 ---
 
-#### Add it to selected databases and select all object of interest in the database to include
+#### Ensure that your selected objects contains all database objects that you desire to select 
 ![Image](https://github.com/user-attachments/assets/cf0a69fb-0331-40dc-b55a-0a4d01c23381)
 
 ---
-#### Ensure that your selected objects contains all database objects that you desire to select
+#### Select other possible options as you wish 
 ![Image](https://github.com/user-attachments/assets/d2543711-28ec-42a3-ab90-b50c00001ff0)
 
 ---
 
-#### Select other possible options as you wish
+#### This is the summary of the database to reverse 
 ![Image](https://github.com/user-attachments/assets/8f198b50-e2ae-462f-9b54-21e6f9e1557c)
 ---
-#### This is the summary of the database to reverse
+#### Reverse engineering process
 ![Image](https://github.com/user-attachments/assets/215a396c-ac79-4e88-ad90-36517a4798ba)
 ---
 
-#### Reverse engineering process
+
 ![Image](https://github.com/user-attachments/assets/54eecb0e-8c0b-47e2-a688-464fa358a6ac)
 ---
 ![Image](https://github.com/user-attachments/assets/7a937d3b-8780-4091-b24e-f0cc9fcee8db)
