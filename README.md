@@ -11,10 +11,11 @@ In this discourse, a data model that is existing in a MS SQL Server database is 
 > 
 ---
 #### To reverse engineer an existing MS SQL Server database, open the ER/Studio, go to 'File',  'New' and  select 'Reverse engineer a database'
-
-
-![Image](https://github.com/user-attachments/assets/d65d1a91-79d5-4adb-9ea0-1df3002c52b7)
 ![Image](https://github.com/user-attachments/assets/cce74d69-f98d-4dda-b3bd-fc78975e2e6a)
+
+---
+#### Click login
+
 ![Image](https://github.com/user-attachments/assets/8b803bfb-e0f9-4502-bbf2-54506ecfd086)
 ![Image](https://github.com/user-attachments/assets/003983ed-42a5-4a8c-8c2e-d746db4b7e71)
 ![Image](https://github.com/user-attachments/assets/cf0a69fb-0331-40dc-b55a-0a4d01c23381)
@@ -24,7 +25,7 @@ In this discourse, a data model that is existing in a MS SQL Server database is 
 ![Image](https://github.com/user-attachments/assets/54eecb0e-8c0b-47e2-a688-464fa358a6ac)
 ![Image](https://github.com/user-attachments/assets/7a937d3b-8780-4091-b24e-f0cc9fcee8db)
 ![Image](https://github.com/user-attachments/assets/1039f493-96dc-47aa-a3c1-3278ea0b5d9b)
-
+![Image](https://github.com/user-attachments/assets/d65d1a91-79d5-4adb-9ea0-1df3002c52b7)
 
 
 
