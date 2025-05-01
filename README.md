@@ -33,16 +33,17 @@ In this discourse, a data model that is existing in a MS SQL Server database is 
 
 ---
 
-#### This is the summary of the database to reverse 
+#### This is the summary of objects from the database that we wish to reverse engineer
 ![Image](https://github.com/user-attachments/assets/8f198b50-e2ae-462f-9b54-21e6f9e1557c)
 ---
-#### Reverse engineering process
+#### Click next
 ![Image](https://github.com/user-attachments/assets/215a396c-ac79-4e88-ad90-36517a4798ba)
 ---
 
-
+#### Click next
 ![Image](https://github.com/user-attachments/assets/54eecb0e-8c0b-47e2-a688-464fa358a6ac)
 ---
+#### Reverse engineering process
 ![Image](https://github.com/user-attachments/assets/7a937d3b-8780-4091-b24e-f0cc9fcee8db)
 
 ---
