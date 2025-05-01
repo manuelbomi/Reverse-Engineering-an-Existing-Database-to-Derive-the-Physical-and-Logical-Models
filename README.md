@@ -14,7 +14,7 @@ In this discourse, a data model that is existing in a MS SQL Server database is 
 ![Image](https://github.com/user-attachments/assets/cce74d69-f98d-4dda-b3bd-fc78975e2e6a)
 
 ---
-#### Click login. Provide login info and click next. Navigate to your database list and select database of interest. (In this discourse, the database of interest is teh MS SQL Server 2022). 
+#### Click login. Provide login info and click next. Navigate to your database list and select database of interest. (In this discourse, the database of interest is the MS SQL Server 2022). 
 
 ![Image](https://github.com/user-attachments/assets/8b803bfb-e0f9-4502-bbf2-54506ecfd086)
 
