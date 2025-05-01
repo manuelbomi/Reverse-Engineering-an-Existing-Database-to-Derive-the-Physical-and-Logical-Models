@@ -40,7 +40,7 @@ In this discourse, a data model that is existing in a MS SQL Server database is 
 ![Image](https://github.com/user-attachments/assets/215a396c-ac79-4e88-ad90-36517a4798ba)
 ---
 
-#### Click next
+#### Click next and click 'Finish'
 ![Image](https://github.com/user-attachments/assets/54eecb0e-8c0b-47e2-a688-464fa358a6ac)
 ---
 #### Reverse engineering process
