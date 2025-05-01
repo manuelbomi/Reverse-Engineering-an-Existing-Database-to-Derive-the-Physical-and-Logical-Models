@@ -24,7 +24,8 @@ In this discourse, a data model that is existing in a MS SQL Server database is 
 ![Image](https://github.com/user-attachments/assets/003983ed-42a5-4a8c-8c2e-d746db4b7e71)
 ---
 
-#### From the list of available databases, select the database that you wish to reverse engineer. 
+#### If your login details (username & password are correct), you should now have access to your database server. You will see a list of available databases.
+From the list of available databases, select the database that you wish to reverse engineer. 
 ![Image](https://github.com/user-attachments/assets/cf0a69fb-0331-40dc-b55a-0a4d01c23381)
 
 ---
