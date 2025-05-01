@@ -14,10 +14,14 @@ In this discourse, a data model that is existing in a MS SQL Server database is 
 ![Image](https://github.com/user-attachments/assets/cce74d69-f98d-4dda-b3bd-fc78975e2e6a)
 
 ---
-#### Click login
+#### Click login. Provide login info and click next
 
 ![Image](https://github.com/user-attachments/assets/8b803bfb-e0f9-4502-bbf2-54506ecfd086)
+
+---
+#### Navigate to your database list and select database of interest
 ![Image](https://github.com/user-attachments/assets/003983ed-42a5-4a8c-8c2e-d746db4b7e71)
+---
 ![Image](https://github.com/user-attachments/assets/cf0a69fb-0331-40dc-b55a-0a4d01c23381)
 ![Image](https://github.com/user-attachments/assets/d2543711-28ec-42a3-ab90-b50c00001ff0)
 ![Image](https://github.com/user-attachments/assets/8f198b50-e2ae-462f-9b54-21e6f9e1557c)
