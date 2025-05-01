@@ -22,13 +22,32 @@ In this discourse, a data model that is existing in a MS SQL Server database is 
 #### Navigate to your database list and select database of interest
 ![Image](https://github.com/user-attachments/assets/003983ed-42a5-4a8c-8c2e-d746db4b7e71)
 ---
+
+#### Add it to selected databases and select all object of interest in the database to include
 ![Image](https://github.com/user-attachments/assets/cf0a69fb-0331-40dc-b55a-0a4d01c23381)
+
+---
+#### Ensure that your selected objects contains all database objects that you desire to select
 ![Image](https://github.com/user-attachments/assets/d2543711-28ec-42a3-ab90-b50c00001ff0)
+
+---
+
+#### Select other possible options as you wish
 ![Image](https://github.com/user-attachments/assets/8f198b50-e2ae-462f-9b54-21e6f9e1557c)
+---
+#### This is the summary of the database to reverse
 ![Image](https://github.com/user-attachments/assets/215a396c-ac79-4e88-ad90-36517a4798ba)
+---
+
+#### Reverse engineering process
 ![Image](https://github.com/user-attachments/assets/54eecb0e-8c0b-47e2-a688-464fa358a6ac)
+---
 ![Image](https://github.com/user-attachments/assets/7a937d3b-8780-4091-b24e-f0cc9fcee8db)
+
+---
+#### Both logical and physical models are now available
 ![Image](https://github.com/user-attachments/assets/1039f493-96dc-47aa-a3c1-3278ea0b5d9b)
+----
 ![Image](https://github.com/user-attachments/assets/d65d1a91-79d5-4adb-9ea0-1df3002c52b7)
 
 
@@ -53,4 +72,4 @@ LinkedIn:  https://www.linkedin.com/in/emmanuel-oyekanlu-6ba98616
 Github:  https://github.com/manuelbomi
 
 ```
-
+[![Icons](https://skillicons.dev/icons?i=aws,azure,gcp,scala,mongodb,redis,cassandra,kafka,anaconda,matlab,nodejs,django,py,c,anaconda,git,github,mysql,docker,kubernetes&theme=dark)](https://skillicons.dev)
