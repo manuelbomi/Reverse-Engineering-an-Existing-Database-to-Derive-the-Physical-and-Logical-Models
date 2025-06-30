@@ -1,4 +1,4 @@
-# Data Architecture and Models: Reverse-Engineering-an-Existing-Database-to-Derive-the-Physical-and-Logical-Models
+# Data Architecture and Models: Reverse Engineering an Existing Database to Derive the Physical and Logical Models
 
 Data model reverse engineering is a data architecture approach through which Data Architects can create a database physical and/or logical model from an existing database. Database models graphically show the structure of a database so that Data Architects and decision makers can see how database elements, such as tables and views, relate to each other without showing the actual data. This process can help to streamline creating a new database or understanding the structure of an existing one.
 
